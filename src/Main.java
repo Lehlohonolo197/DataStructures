@@ -42,6 +42,6 @@ public class Main {
 
             System.out.println(iterator.next());
         }
-        System.out.println("The iterator wordes");
+        System.out.println("The iterator worked");
     }
 }
